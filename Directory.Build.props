@@ -1,6 +1,6 @@
 <Project>
     <PropertyGroup>
-        <GameDir>D:\SteamLibrary\steamapps\common\Subnautica</GameDir>
+        <GameDir>E:\SteamLibrary\steamapps\common\Subnautica</GameDir>
         <BepInExDir>$(GameDir)\\BepInEx</BepInExDir>
     </PropertyGroup>
 
